@@ -489,6 +489,16 @@ button {
   color: #fff;
 }
 
+.btn-send button {
+  width: 470px;
+  height: 40px;
+  background: #3dc154;
+  color: #fff;
+  border: none;
+  margin-bottom: 4rem;
+  border-radius: 4px;
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -935,6 +945,16 @@ button {
   padding: 5px 16px;
   background: #ffba7a;
   color: #fff;
+}
+
+.btn-send button {
+  width: 470px;
+  height: 40px;
+  background: #3dc154;
+  color: #fff;
+  border: none;
+  margin-bottom: 4rem;
+  border-radius: 4px;
 }
 
 .container {
