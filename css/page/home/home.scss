@@ -1,0 +1,45 @@
+@import "../../core";
+ 
+ 
+.wrap-talento {
+    .talento {
+      width: 45%;
+    }
+    h1 {
+        color: $primary-color;
+        text-transform: uppercase;
+        margin-bottom: 16px;
+         
+    }
+
+    p {
+        color: $p-color;
+        margin-top: 1.8rem;
+        line-height: 1.76;
+    }
+
+}
+
+.especialista {
+
+    width: 76%;
+    margin-bottom: 7rem;
+
+    img {
+        padding-right: 30px;
+        margin-bottom: 43px;
+    }
+
+    h2 {
+        color: $primary-color;
+        margin-bottom: 1.6rem;
+    }
+
+    p {
+        margin-top: 1.8rem;
+        margin-bottom: 3.4rem;
+        color: $p-color;
+        line-height: 1.76;
+    }
+
+}

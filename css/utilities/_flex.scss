@@ -1,0 +1,33 @@
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dflex {
+    display: flex;
+}
+
+.f-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.j-center {
+    display: flex;
+    justify-content: center;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.a-self-c {
+    display: flex;
+    align-content: center;
+}
+
+.d-table {
+    display: flex;
+    flex-direction: column;
+}

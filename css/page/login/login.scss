@@ -1,0 +1,51 @@
+@import "../../core";
+
+ .form {
+
+    width: 380px;
+    margin: auto;
+    
+    h2 {
+        color: $primary-color;
+        margin-bottom: 20px;
+    }
+     
+     label {
+         display: block;
+         margin-bottom: 7px;
+         font-size: 14px;
+     }
+     input {
+        width: 380px;
+        height: 42px;
+        border-radius: 4px;
+        margin-bottom: 22px;
+     }
+     input[type="checkbox"] {
+         width: 10px;
+         height: 10px;
+     }
+     .color {
+         color: $complementary-color;
+         font-weight: bold;
+         font-size: 11px;
+     }
+     .btn-send button {
+         width: 100%;
+         background: $complementary-color;
+         color: $white-color;
+         padding: 10px;
+         border-radius: 10px;
+         border: none;
+     }
+     strong {
+        color: $complementary-color;
+        font-size: 11px;
+     }
+     .create-user {
+         margin: 20px 0;
+         p {
+             font-size: 11px;
+         }
+     }
+ }

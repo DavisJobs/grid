@@ -1,0 +1,75 @@
+@import "../../core";
+
+ .form {
+      label {
+        display: block;
+        margin-bottom: 10px;
+        font-size: 15px;
+      }
+      
+      h2 {
+          color: $primary-color;
+          margin-bottom: 20px;
+      }
+       
+        p {
+            display: block
+        }
+
+.row{
+    margin-bottom: 20px;
+    .w-2 {
+        width: 223px;
+        height: 42px;
+        border-radius: 4px;
+        border: solid 1px #dedede;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+
+    input[type="radio"] {
+        width: 100px;
+        height: 15px;
+    }
+    
+    p {
+        display: block;
+    }
+
+    span {
+        font-size: 13px;
+    }
+
+    select {
+        width: 221px;
+        height: 45px;
+        border: 1px solid #d3d3d3;
+        margin-right: 20px;
+        margin-top: -8px;
+        border-radius: 4px;
+        margin-bottom: 10px;
+    }
+    .w-100 {
+        width: 470px;border-radius: 4px;
+        border: solid 1px #dedede;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        height: 42px;
+    }
+    textarea {
+        width: 470px;
+        border: solid 1px #dedede;
+       
+    }
+
+     
+}
+.btn-send button {
+    width: 470px;
+    background: $complementary-color;
+    color: $white-color;
+    border: none;
+}
+ 
+}
+ 

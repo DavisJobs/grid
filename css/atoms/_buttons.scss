@@ -1,0 +1,28 @@
+@import "../settings/variable";
+ 
+.btn button {
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-right: 43px;
+    padding-left: 43px;
+    border-radius: 43px;
+    background: $complementary-color;
+    color: $white-color;
+    outline: none;
+    border: none;
+}
+
+.btn-perfil a {
+    color: $white-color;
+    background: $success-color;
+    padding: 8px 16px; 
+    height: 15px;
+    border-radius: 4px;
+    margin-left: 16px;
+}
+
+.btn-portfolio a{
+    padding: 5px 16px;
+    background: $secondary-color;
+    color: $white-color;
+}

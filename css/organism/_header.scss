@@ -1,0 +1,31 @@
+header {
+   .container {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    }
+    .fa-facebook,
+    .fa-instagram {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    .fa-facebook {
+        color: #3b5998;
+    }
+    .fa-instagram {
+        color: #e4405f;
+    }
+}
+
+.header-dashboard {
+
+    ul li a {
+        font-size: 1.4rem;
+        margin-left: 2.2rem;
+        color: #5d5d5d;
+    
+        &:hover {
+            border-bottom: 1px solid #5d5d5d;
+        }
+    }
+
+ }
